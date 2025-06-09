@@ -16,7 +16,7 @@ All data has been fetched, validated, merged, and enriched with time-based featu
 ---
 
 ## Folder Structure
-
+```
 .
 ├── data/
 │ ├── entsoe/ # Raw electricity demand and price data
@@ -43,9 +43,6 @@ Create a `.env` file in the project root with the following:
 ENTSOE_TOKEN=your_entsoe_api_key
 OWM_API_KEY=your_openweathermap_api_key
 
-yaml
-Kopiera
-Redigera
 
 ---
 
