@@ -148,14 +148,6 @@ This commit finalizes the **Week 1 goals**:
 
 The project is now ready for the next phase: **modeling and forecasting electricity demand and price dynamics** using statistical or machine learning approaches.
 
----
-
-## Next Steps
-
-- Introduce lagged features (e.g., yesterday’s load or temp)
-- Define modeling objectives (short-term forecasting, anomaly detection, etc.)
-- Build initial models (e.g., linear regression, XGBoost, or LSTM)
-- Evaluate and iterate
 
 ---
 
